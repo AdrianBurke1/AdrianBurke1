@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrian Burke</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<img align=“right” alt=“Coding” width”400” src=“https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif”>
+![Demon slayer giph](https://user-images.githubusercontent.com/114108495/233870939-591b0bcd-5035-42fe-8d2a-f22b9128e560.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianburke1&label=Profile%20views&color=0e75b6&style=flat" alt="adrianburke1" /> </p>
 
