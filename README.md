@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Burke</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<img align=“right” alt=“Coding” width”400” src=“https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYyZDUyNTlmOTA1NDk2MzdlZTdiY2ZlM2Y1MTI3MGM0NzBmMGExOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wFNqWBMN5Apxe/giphy.gif”>
+<iframe src="https://giphy.com/embed/wFNqWBMN5Apxe" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-s-wFNqWBMN5Apxe">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianburke1&label=Profile%20views&color=0e75b6&style=flat" alt="adrianburke1" /> </p>
 
