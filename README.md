@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Pursuit Graduate **Certified In Full Stack development**
 
 - 📫 How to reach me **adrianburke902@gmail.com**
 
-- ⚡ Fun fact **I use creativity as my outlet my passions are music film and now coding**
+- ⚡ Fun fact **I channel my boundless creativity into various outlets, igniting my passions for music, film, and now coding! These avenues allow me to explore the limitless possibilities of expression, turning each endeavor into an exhilarating adventure. With the rhythm of music, the storytelling magic of film, and the thrill of coding, I embark on a journey where imagination knows no bounds. It's not just a combination of interests; it's an electrifying fusion of artistic expression and the power to bring ideas to life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
